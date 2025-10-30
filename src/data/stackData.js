@@ -1,4 +1,4 @@
-import { Code, BookOpen, Brush, Zap, GitBranch, Database, Layers, Clock, Mail, Sparkle} from 'lucide-react';
+// import { Code, BookOpen, Brush, Zap, GitBranch, Database, Layers, Clock, Mail, Sparkle} from 'lucide-react';
 import NextjsIcon from '../assets/icons/NextjsIcon';
 import TypeScriptIcon from '../assets/icons/TypeScriptIcon';
 import TailwindIcon from '../assets/icons/TailwindIcon';
@@ -36,7 +36,7 @@ export const stackData = [
         color: "text-orange-500" 
     },
     { 
-        icon: ReduxIcon, // Usando Layers como sustituto de Redux
+        icon: ReduxIcon,
         title: "Redux", 
         subtitle: "Gestión de Estado", 
         color: "text-indigo-600" 
@@ -60,13 +60,13 @@ export const stackData = [
         color: "text-blue-700" 
     },
     { 
-        icon: SqlIcon, // Usando Mail como sustituto de SQL
+        icon: SqlIcon, 
         title: "SQL", 
         subtitle: "Lenguaje de Consulta", 
         color: "text-orange-400" 
     },
     { 
-        icon: SequelizeIcon, // Usando Clock como sustituto de Sequelize
+        icon: SequelizeIcon, 
         title: "Sequelize", 
         subtitle: "ORM", 
         color: "text-yellow-600" 
