@@ -3,7 +3,6 @@ import { useTheme } from '../hooks/useTheme';
 import { Menu, X, Sun, Moon } from 'lucide-react';
 
 
-
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -66,15 +65,15 @@ const Header = () => {
 
                 <div className="px-4 pt-2 pb-3 space-y-1 sm:px-3 text-center">
 
-                    <a href="" className="block px-3 py-2 rounded-md font-medium text-text  hover:bg-gray-100 dark:hover:bg-gray-800">Inicio</a>
+                    <a href="#inicio" className="block px-3 py-2 rounded-md font-medium text-text  hover:bg-gray-100 dark:hover:bg-gray-800">Inicio</a>
 
-                    <a href="" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Sobre mi</a>
+                    <a href="#sobre-mi" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Sobre mi</a>
 
-                    <a href="" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Mi Stack</a>
+                    <a href="#stack" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Mi Stack</a>
 
-                    <a href="" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Proyectos</a>
+                    <a href="#proyectos" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Proyectos</a>
 
-                    <a href="" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Contacto</a>
+                    <a href="#contacto" className="block px-3 py-2 rounded-md font-medium text-text hover:bg-gray-100 dark:hover:bg-gray-800">Contacto</a>
 
                 </div>
             </nav>
