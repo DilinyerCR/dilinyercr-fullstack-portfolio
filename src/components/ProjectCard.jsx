@@ -6,7 +6,7 @@ const ProjectCard = ({ project }) => {
             className="flex flex-col rounded-xl shadow-xl overflow-hidden bg-bg border border-gray-200 dark:border-gray-700 transition duration-300 transform hover:shadow-2xl hover:-translate-y-1 hover:shadow-primary/50"
         >
             {/* 1. Imagen del Proyecto */}
-            <div className="h-48 w-full overflow-hidden">
+            <div className="h-46 w-full overflow-hidden">
                 <img 
                     src={project.image} 
                     alt={`Captura del proyecto ${project.title}`}
