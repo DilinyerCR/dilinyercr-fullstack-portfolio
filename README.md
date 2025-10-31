@@ -1,4 +1,4 @@
-# **💼 Portafolio Personal de Dilinyer Castillo **
+# **💼 Portafolio Personal de Dilinyer Castillo**
 
 ## **✨ Frontend moderno con React y TailwindCSS**
 
