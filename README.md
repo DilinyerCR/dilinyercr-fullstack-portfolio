@@ -41,8 +41,8 @@ Esta aplicación fue construida con tecnologías modernas y enfocada en la robus
 
 ### **👤 Autor y Contacto**
 
-* **LinkedIn:** \[https://www.linkedin.com/in/dilinyer-castillo/\]  
-* **GitHub:** \[https://github.com/DilinyerCR\]
+* **LinkedIn:** [https://www.linkedin.com/in/dilinyer-castillo/]  
+* **GitHub:** [https://github.com/DilinyerCR]
 
 ### **📄 Licencia**
 
