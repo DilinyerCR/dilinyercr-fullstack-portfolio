@@ -1,16 +1,51 @@
-# React + Vite
+# **💼 Portafolio Personal de Dilinyer Castillo **
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **✨ Frontend moderno con React y TailwindCSS**
 
-Currently, two official plugins are available:
+Esta es la carta de presentación de mi portafolio profesional como desarrollador. Una aplicación **frontend moderna**, construida desde cero para mostrar mis proyectos, habilidades y experiencia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El proyecto está diseñado con una arquitectura **componentizada** bajo el stack **React \+ TailwinCSS**, garantizando un código robusto, escalable y una experiencia de usuario completamente **responsive**.
 
-## React Compiler
+### **🚀 Aplicación en Vivo (Demo)**
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+| Tipo | Enlace |
+| :---- | :---- |
+| **Portafolio en Vivo (Netlify)** | 👉 [Ver en Netlify](https://dilinyercr-fullstack-portfolio.netlify.app/) |
+| **Repositorio (GitHub)** | 🔗 [Ver Código Fuente](https://github.com/DilinyerCR/dilinyercr-fullstack-portfolio.git) |
 
-## Expanding the ESLint configuration
+### **📸 Vistazo Rápido (UX/UI)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+El **concepto de diseño** fue generado con asistencia de IA bajo mi dirección, y **maquetada 100% por mí** con TailwindCSS, enfocados en una estética profesional, limpia y una experiencia **Mobile-First** gracias a **TailwindCSS**.
+
+| Vista Desktop | Vista Mobile |
+| :---- | :---- |
+| [Vista Desktop](./design/desktop.png) | [Vista Mobile](./design/mobile.png) |
+
+### **🎯 Características Destacadas**
+
+* **Diseño:** Generado con asistencia de IA bajo mi dirección.  
+* **Galería de Proyectos:** Sección interactiva que muestra mis trabajos más destacados con enlaces directos.  
+* **Responsividad Total (Mobile-First):** Diseño adaptativo que garantiza una experiencia de usuario óptima en cualquier dispositivo.  
+* **Componentes Reutilizables:** Código limpio y escalable basado en componentes de React.  
+* **Animaciones Sutiles:** Transiciones y efectos (ej. hover) que mejoran la interacción del usuario.
+
+### **🛠️ Stack Tecnológico (Skills)**
+
+Esta aplicación fue construida con tecnologías modernas y enfocada en la robustez y escalabilidad.
+
+| Tecnología | Rol en el Proyecto |
+| :---- | :---- |
+| **React** | Librería principal para el UI y la interactividad. |
+| **TailwindCSS** | Framework CSS para un desarrollo de estilos rápido, moderno y responsive. |
+| **Vite** | Herramienta de *bundling* y servidor de desarrollo ultra-rápido. |
+
+### **👤 Autor y Contacto**
+
+* **LinkedIn:** \[https://www.linkedin.com/in/dilinyer-castillo/\]  
+* **GitHub:** \[https://github.com/DilinyerCR\]
+
+### **📄 Licencia**
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [**LICENSE**](http://docs.google.com/LICENSE) en la raíz del repositorio para más detalles.
+
+⭐ Si este proyecto te resulta útil o interesante, ¡deja una estrella en el repositorio\!
