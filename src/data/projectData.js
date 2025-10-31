@@ -20,7 +20,7 @@ export const projectData = [
         title: "Control de Gastos", 
         description: "Plataforma para el seguimiento y control de gastos. Registra tus transacciones para monitorear el flujo diario de dinero.", 
         image: "/projects/control-de-gastos.png",
-        techs: ["React", "TypeScript", "TailwindCSS"],
+        techs: ["React.js", "TypeScript", "TailwindCSS"],
         liveUrl: "https://control-de-gastos-cr.netlify.app/",
         codeUrl: "https://github.com/DilinyerCR/Control-de-Gastos-y-Presupuestos.git"
     },

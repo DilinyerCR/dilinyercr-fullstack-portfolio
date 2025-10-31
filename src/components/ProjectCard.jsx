@@ -3,7 +3,7 @@
 const ProjectCard = ({ project }) => {
     return (
         <div 
-            className="flex flex-col rounded-xl shadow-xl overflow-hidden bg-bg border border-gray-200 dark:border-gray-700 transition duration-300 transform hover:shadow-2xl hover:-translate-y-1 hover:shadow-primary/50"
+            className="flex flex-col rounded-xl shadow-xl overflow-hidden bg-card border border-gray-200 dark:border-gray-700 transition duration-300 transform hover:shadow-2xl hover:-translate-y-1 hover:shadow-primary/50"
         >
             {/* 1. Imagen del Proyecto */}
             <div className="h-46 w-full overflow-hidden">
